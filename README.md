@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kingofdreams777
-- 👀 I’m interested in software engineering
+- 👀 I'm a software engineer
 - 🌱 I’m currently learning Rust, and Vue
 - 📫 You can reach me here
 
