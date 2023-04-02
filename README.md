@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kingofdreams777
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning C# and Swift
-- 💞️ I’m looking to collaborate on Python Packages
+- 🌱 I’m currently learning Rust, and Vue
 - 📫 You can reach me here
 
 <!---
